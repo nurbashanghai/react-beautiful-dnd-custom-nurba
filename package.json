@@ -1,8 +1,8 @@
 {
-  "name": "react-beautiful-dnd",
-  "version": "13.1.1",
-  "description": "Beautiful and accessible drag and drop for lists with React",
-  "author": "Alex Reardon <areardon@atlassian.com>",
+  "name": "@nurba94/react-beautiful-dnd-custom-nurba",
+  "version": "13.1.2",
+  "description": "Beautiful and accessible drag and drop for lists with React, modified by nurba (enable shift, ctrl, command and alt keys)",
+  "author": "Alex Reardon <areardon@atlassian.com>, Modified by Nurba",
   "keywords": [
     "drag and drop",
     "dnd",
